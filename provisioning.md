@@ -33,20 +33,24 @@ Step 5:  Enter in your Cloud Account name
 
 Next, depending on your account type you may land on one of 2 possible Cloud Dashboard pages.
 
-Step 6:  If your default page looks like this, then simply search for self and then click on the resulting Self-Service Integration option.  Skip to Step 10 if this page matches what you see otherwise go to step 7.
+Step 6:  If your default page looks like this, then simply search for self and then click on the resulting Self-Service Integration option.  
 
  ![](./images/provisioning/Step6.png)
 
+If you see the image above choose **Self-Service Integration** and continue to Step 10.
+
 Step 7:  Alternatively, if your default page looks like this then you need to click on Customize Dashboard
+
 ![](./images/provisioning/Step7.png)
 
 Step 8:  This will bring you to the Customize Dashboard page where you will scroll almost to the end of the page to locate Self-Service Integration and click on Show
-![](./images/provisioning/Step8.png)
 
-### Part 3: Create an Instance of SSI
+![](./images/provisioning/Step8.png)
 
 Step 9:  Now you will see a listing for Self-Service Integration which you can click on.
  ![](./images/provisioning/Step9.png)
+
+### Part 3: Create an Instance of SSI
 
 Step 10: Click Open Service Console
 ![](./images/provisioning/Step10.png)
@@ -65,4 +69,4 @@ Step 13:  Confirm details and click Create
 Step 14:  You can use the refresh button to check on status.  Once status shows that the instance has been provisioned you can use the hamburger menu to launch the SSI Console
 ![](./images/provisioning/Step14.png)
 
- 
+You will need to wait a 10-15 minutes for your instance of self-service integation to be provisioned before it is available. If you supplied a notification email, you will receive an e-mail when it is ready.
