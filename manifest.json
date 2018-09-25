@@ -10,6 +10,12 @@
                 "title": "Home",
                 "description": "Welcome to the Oracle Self Service Integration workshop"
             },
+              {
+                "number": "2",
+                "filename": "provisioning.md",
+                "title": "Provisioning",
+                "description": "This section explains how to provision an instance of SSI in Oracle Cloud."
+            },
             {
                 "number": "10",
                 "filename": "StudentGuide.md",
